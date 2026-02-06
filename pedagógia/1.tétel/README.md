@@ -1,7 +1,32 @@
 # A nevelés antropológiai meghatározottsága és a nevelési célok 
+- 1.1. A nevelhetőség kérdése és a nevelés határai
+- 1.2. Embereszmény és nevelés
+- 1.3. A nevelés mint szocializáció és perszonalizáció
+- 1.4. Értékek és célok a nevelésben
+- 1.5. Célrendszerek és céltípusok
 
-### 1.1. A nevelhetőség kérdése és a nevelés határai
-### 1.2. Embereszmény és nevelés
-### 1.3. A nevelés mint szocializáció és perszonalizáció
-### 1.4. Értékek és célok a nevelésben
-### 1.5. Célrendszerek és céltípusok
+## Mi az az antropológia?
+- Az antropológia az emberrel, mint biológiai és kulturális lénnyel foglalkozó átfogó tudomány. 
+- Az antropológia célja, hogy
+    - átfogó képet alkosson az emberről,
+    - megértse a környezethez való alkalmazkodást,
+    - és segítse az előítéletmentes szemléletmód kialakítását.
+- Vizsgálja az
+    - emberi evolúciót, fizikai variációkat,
+    - valamint a társadalmi szokásokat,
+    - nyelvhasználatot
+    - és kultúrákat.
+- Fő ágai
+    - a fizikai (biológiai) antropológia
+    - és a kulturális antropológia,
+    - utóbbi a közösségek életmódját és szimbólumrendszerét elemzi. 
+- Főbb jellemzők és területek:
+    - Fizikai antropológia: Az ember alaktani sajátosságaival, a népességek biológiai vizsgálatával és az emberi evolúcióval foglalkozik.
+    - Kulturális/szociális antropológia: A társadalmi rendszereket, szokásokat, kulturális különbségeket kutatja.
+- Módszertan:
+    - A résztvevő megfigyelés
+    - és a terepmunka a legfontosabb módszerei.
+- Alkalmazási terület:
+    - Hasznosítják az orvostudományban,
+    - pedagógiában
+    - és a társadalmi konfliktusok kezelésében. 
