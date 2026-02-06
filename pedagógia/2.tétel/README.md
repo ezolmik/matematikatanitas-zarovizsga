@@ -5,7 +5,7 @@
 - 2.4. Hagyományos és modern oktatási módszerek
 - 2.5. Motiváció és differenciálás az oktatásban 
 
-## Tanács a felelethez: 
+## Tanács a felelethez
 A vizsgán emeld ki, hogy a modern pedagógus 
 - nem csupán ismeretközlő,
 - hanem facilitátor (támogató),
