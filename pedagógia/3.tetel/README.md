@@ -9,4 +9,4 @@
 - 3.2. Helyi tanterv, iskolai pedagógiai program
 - 3.3. Tematikus tervezés és pedagógiai értékei, tanmenet
 - 3.4. Óravázlat
-- 3.5. Tantervi célok, tantárgyi tartalmak, tantervi követelmények.
+- 3.5. Tantervi célok és követelmények, tantárgyi tartalmak
