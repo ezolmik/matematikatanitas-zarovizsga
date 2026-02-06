@@ -1,6 +1,6 @@
 # Szabályozás a tanügyben 
 
-- 3.1.szintek és szabályozási dokumentumok
+- 3.1.Szintek és szabályozási dokumentumok
     - 3.1.1. Törvények
     - 3.1.2. Miniszteri rendelet
     - 3.1.3. Központi Tanterv (NAT(ok)
