@@ -6,4 +6,8 @@
 - 2.5. Motiváció és differenciálás az oktatásban 
 
 # Tanács a felelethez: 
-A vizsgán emeld ki, hogy a modern pedagógus nem csupán ismeretközlő, hanem facilitátor (támogató), aki a tanulás tanítására és a készségfejlesztésre helyezi a hangsúlyt
+A vizsgán emeld ki, hogy a modern pedagógus 
+- nem csupán ismeretközlő,
+- hanem facilitátor (támogató),
+- aki a tanulás tanítására
+- és a készségfejlesztésre helyezi a hangsúlyt.
