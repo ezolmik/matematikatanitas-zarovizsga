@@ -1,4 +1,3 @@
-# 2.tétel 
 ## A pedagógus mint hivatás és szakma
 - 2.1. A kezdő tanár problémái
 - 2.2. A reflektív tanári habitus
