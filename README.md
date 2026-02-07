@@ -13,4 +13,7 @@
 # [NotebookLM](https://notebooklm.google/)
 - [NotebookLM Students](https://notebooklm.google/students)
 
-<img width="459" height="669" alt="image" src="https://github.com/user-attachments/assets/70773311-96f0-40c4-b838-8a98966b638c" />
+####  Prompt Template a tétel kidolgozás finomítására:
+
+<img width="520" height="495" alt="image" src="https://github.com/user-attachments/assets/168b5d6f-2b0a-40c3-a6f9-01bf26463bf2" />
+
