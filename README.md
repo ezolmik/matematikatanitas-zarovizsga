@@ -1,4 +1,4 @@
-# matematikatanitas-zarovizsga
+# Matematikatanitás záróvizsga
  Hallgatói repository a vizsgára történő hatékony felkészülésre. DE-TTK Matematika tanár MSC 2 vagy 3 félév 2025/2026.
 
 - [2025-szeptemberetol-kezdodo-evfolyamok](https://tanarkepzes.unideb.hu/2025-szeptemberetol-kezdodo-evfolyamok)
