@@ -7,3 +7,6 @@
 |záróvizsga időszak kezdete|záróvizsga időszak vége|
 |--------------------------|-----------------------|
 |2026. május 26.| 2026. június 5.|
+
+# [NotebookLM](https://notebooklm.google/)
+- [NotebookLM Students](https://notebooklm.google/students)
