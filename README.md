@@ -12,3 +12,5 @@
 
 # [NotebookLM](https://notebooklm.google/)
 - [NotebookLM Students](https://notebooklm.google/students)
+
+<img width="533" height="485" alt="image" src="https://github.com/user-attachments/assets/870e7557-d244-4be6-a70e-3bcd5232174d" />
