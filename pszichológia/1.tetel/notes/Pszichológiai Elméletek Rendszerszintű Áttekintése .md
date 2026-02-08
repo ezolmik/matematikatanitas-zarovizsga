@@ -38,9 +38,6 @@
         (pl. miért mozdult el a tudomány a determinizmustól a szabad akarat felé).
     -   A választ Markdown formátumban add meg, strukturált fejezetekkel.
 
-
-Íme az elméletek összefüggéseinek „high-level” rendszerezése Markdown formátumban:
-
 ## Pszichológiai Elméletek Rendszerszintű Áttekintése 
 
 ## A személyiség és a fejlődés integratív elemzése 
